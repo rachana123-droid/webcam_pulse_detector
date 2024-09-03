@@ -9,7 +9,7 @@ A python application that detects and highlights the heart-rate of an individual
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/how-to-make-webcam-pulse-detector-with-python-opencv.git
+git clone https://github.com/rachana123-droid/webcam_pulse_detector.git
 ```
 - Goto the cloned folder.
 ```
@@ -29,10 +29,6 @@ pip install -r requirements.txt
  - Run 
  
 `python filename.py`
-
-
-<video src="https://user-images.githubusercontent.com/34125851/220516075-2c7608fe-f47b-4bde-9863-19a1fe83b1ad.mp4
-"></video>
 
 
 
